@@ -1,0 +1,51 @@
+.Home_techs__3UPs_ {
+    margin: 25px 0;
+    display: flex;
+    flex-wrap: wrap
+}
+
+.Home_techs__3UPs_ img {
+    height: 50px;
+    margin: 0 25px
+}
+
+.Home_tech__2e14Q {
+    position: relative;
+    margin: 0 8px;
+    display: inline-block;
+    cursor: pointer
+}
+
+.Home_tech__2e14Q:hover .Home_techText__1-w48 {
+    visibility: visible;
+    opacity: .75
+}
+
+.Home_techText__1-w48 {
+    visibility: hidden;
+    width: 120px;
+    background-color: var(--blue);
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 115%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity .6s
+}
+
+.Home_techText__1-w48:after {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 50px;
+    bottom: 100%;
+    width: 0;
+    height: 0;
+    border: 9px solid transparent;
+    border-bottom: 9px solid var(--blue)
+}
