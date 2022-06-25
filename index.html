@@ -17,36 +17,11 @@
             integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
             crossorigin="anonymous"
         ></script>
-        <style>
-            .rounded-img {
-                width: 40%;
-                border-radius: 50%;
-                box-shadow: 0 0 10px rgba(26, 9, 9, 0.4);
-                padding: 0.4em;
-            }
-            .bg-purple {
-                background-color: blueviolet;
-            }
-            .bg-blue {
-                background-color: rgb(48, 103, 223);
-            }
-            .bg-orange {
-                background-color: rgb(221, 130, 26);
-            }
-            .bg-pink {
-                background-color: rgb(110, 8, 8);
-            }
-            ul.hr {
-                margin: 0;
-                padding: 4px;
-            }
-            ul.hr li {
-                display: inline;
-                margin-right: 10px;
-            }
-        </style>
+        <script src="/assets/js/copyMY.js"></script>
+        <link href="/assets/css/style.css" rel="stylesheet" />
+        <link href="/assets/css/colours.css" rel="stylesheet" />
     </head>
-    <body>
+    <body class="backg-dark">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container">
                 <a class="navbar-brand" href="/">
@@ -95,9 +70,11 @@
                         src="assets/logo/ico.png"
                         alt="Thorgathis"
                     />
-                    <h1 class="fw-light">Thorgathis</h1>
+                    <h1 class="fw-light col-gray-white">Thorgathis</h1>
                     <p class="lead text-muted">
-                        I am java develiper from Russia
+                        <span class="col-gray-white">
+                            I am java develiper from Russia</span
+                        >
                     </p>
                     <a
                         href="https://github.com/Thorgathis"
@@ -117,10 +94,10 @@
         <div class="container text-center my-5">
             <div class="row">
                 <div class="col-lg-6 col-md-8 mx-auto">
-                    <h1 class="fw-light">Skills</h1>
-                    <div class="progress">
+                    <h1 class="fw-light col-gray-white">Skills</h1>
+                    <div class="progress pbar-bg">
                         <div
-                            class="progress-bar bg-danger"
+                            class="progress-bar col-red"
                             role="progressbar"
                             style="width: 50%"
                             aria-valuenow="50"
@@ -131,9 +108,9 @@
                         </div>
                     </div>
                     <h1></h1>
-                    <div class="progress">
+                    <div class="progress pbar-bg">
                         <div
-                            class="progress-bar bg-orange"
+                            class="progress-bar col-orange"
                             role="progressbar"
                             style="width: 45%"
                             aria-valuenow="45"
@@ -144,9 +121,9 @@
                         </div>
                     </div>
                     <h1></h1>
-                    <div class="progress">
+                    <div class="progress pbar-bg">
                         <div
-                            class="progress-bar bg-pink"
+                            class="progress-bar col-blue"
                             role="progressbar"
                             style="width: 25%"
                             aria-valuenow="25"
@@ -157,7 +134,7 @@
                         </div>
                     </div>
                     <h1></h1>
-                    <div class="progress">
+                    <div class="progress pbar-bg">
                         <div
                             class="progress-bar bg-warning"
                             role="progressbar"
@@ -170,9 +147,9 @@
                         </div>
                     </div>
                     <h1></h1>
-                    <div class="progress">
+                    <div class="progress pbar-bg">
                         <div
-                            class="progress-bar bg-success"
+                            class="progress-bar col-purple"
                             role="progressbar"
                             style="width: 10%"
                             aria-valuenow="10"
@@ -183,9 +160,9 @@
                         </div>
                     </div>
                     <h1></h1>
-                    <div class="progress">
+                    <div class="progress pbar-bg">
                         <div
-                            class="progress-bar bg-purple"
+                            class="progress-bar col-lblue"
                             role="progressbar"
                             style="width: 10%"
                             aria-valuenow="10"
@@ -196,9 +173,9 @@
                         </div>
                     </div>
                     <h1></h1>
-                    <div class="progress">
+                    <div class="progress pbar-bg">
                         <div
-                            class="progress-bar bg-blue"
+                            class="progress-bar col-green"
                             role="progressbar"
                             style="width: 5%"
                             aria-valuenow="5"
@@ -214,44 +191,87 @@
         <div class="container text-center my-5">
             <div class="row">
                 <div class="col-lg-6 col-md-8 mx-auto">
-                    <h1 class="fw-light">Technologies</h1>
-                    <ul class="hr">
-                        <li>
-                            <img
-                                src="assets/tech/git.png"
-                                alt="git"
-                                width="10%"
-                            />
-                        </li>
-                        <li>
-                            <img
-                                src="assets/tech/discord.js.png"
-                                alt="discord"
-                                width="10%"
-                            />
-                        </li>
-                        <li>
-                            <img
-                                src="assets/tech/gitlab.png"
-                                alt="gitlab"
-                                width="10%"
-                            />
-                        </li>
-                        <li>
-                            <img
-                                src="assets/tech/eclipse.png"
-                                alt="eclipse"
-                                width="12%"
-                            />
-                        </li>
-                        <li>
-                            <img
-                                src="assets/tech/vscode.png"
-                                alt="vscode"
-                                width="10%"
-                            />
-                        </li>
-                    </ul>
+                    <h1 class="fw-light col-gray-white">Technologies</h1>
+                    <div class="techs-container" margin="center">
+                        <div class="tech">
+                            <a
+                                href="https://git-scm.com"
+                                data-tooltip="Git"
+                                target="_blank"
+                            >
+                                <img
+                                    src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
+                                    alt="Git"
+                                    width="64"
+                                />
+                            </a>
+                        </div>
+                        <div class="tech">
+                            <a
+                                href="https://github.com/"
+                                data-tooltip="GitHub"
+                                target="_blank"
+                            >
+                                <img
+                                    src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
+                                    alt="GitHub"
+                                    width="64"
+                                />
+                            </a>
+                        </div>
+                        <div class="tech">
+                            <a
+                                href="https://www.eclipse.org/"
+                                data-tooltip="Eclipse"
+                                target="_blank"
+                            >
+                                <img
+                                    src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png"
+                                    alt="Eclipse"
+                                    width="64"
+                                />
+                            </a>
+                        </div>
+                        <div class="tech">
+                            <a
+                                href="https://www.jetbrains.com/pycharm/"
+                                data-tooltip="Discordjs"
+                                target="_blank"
+                            >
+                                <img
+                                    src="https://camo.githubusercontent.com/1c8694c9a5b9c41f5313d08b54e6ad928207fc2a/68747470733a2f2f692e696d6775722e636f6d2f5170497a41466d2e706e67"
+                                    alt="Discordjs"
+                                    width="64"
+                                />
+                            </a>
+                        </div>
+                        <div class="tech">
+                            <a
+                                href="https://code.visualstudio.com/"
+                                data-tooltip="VsCode"
+                                target="_blank"
+                            >
+                                <img
+                                    src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
+                                    alt="VsCode"
+                                    width="64"
+                                />
+                            </a>
+                        </div>
+                        <div class="tech">
+                            <a
+                                href="https://unity.com/ru"
+                                data-tooltip="Unity"
+                                target="_blank"
+                            >
+                                <img
+                                    src="https://upload.wikimedia.org/wikipedia/ru/a/a3/Unity_Logo.png"
+                                    alt="Unity"
+                                    width="64"
+                                />
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

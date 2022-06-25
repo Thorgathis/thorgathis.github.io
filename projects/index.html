@@ -17,31 +17,10 @@
             integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
             crossorigin="anonymous"
         ></script>
-        <style>
-            .rounded-img {
-                width: 40%;
-                border-radius: 50%;
-                box-shadow: 0 0 10px rgba(26, 9, 9, 0.4);
-                padding: 0.4em;
-            }
-            .bg-purple {
-                background-color: blueviolet;
-            }
-            .bg-blue {
-                background-color: rgb(48, 103, 223);
-            }
-            .card {
-                border-radius: 1em;
-            }
-            .card:hover {
-                background-color: rgba(0, 0, 0, 0.1);
-            }
-            .card img {
-                border-radius: 0.9em;
-            }
-        </style>
+        <link href="/assets/css/style.css" rel="stylesheet" />
+        <link href="/assets/css/colours.css" rel="stylesheet" />
     </head>
-    <body>
+    <body class="backg-dark">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container">
                 <a class="navbar-brand" href="/">
@@ -84,15 +63,15 @@
         <div class="container my-5">
             <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-5">
                 <div class="col">
-                    <div class="card">
+                    <div class="card card-dark">
                         <img
                             src="/assets/projects/snake.png"
                             class="card-img-top"
                             alt="snake"
                         />
                         <div class="card-body">
-                            <h5 class="card-title">Snake</h5>
-                            <p class="card-text">
+                            <h5 class="card-title col-gray-white">Snake</h5>
+                            <p class="card-text col-gray-white">
                                 It's a little game, good old snake
                             </p>
                             <a
@@ -110,15 +89,17 @@
                     </div>
                 </div>
                 <div class="col">
-                    <div class="card">
+                    <div class="card card-dark">
                         <img
                             src="/assets/projects/mcserv.png"
                             class="card-img-top"
                             alt="mc"
                         />
                         <div class="card-body">
-                            <h5 class="card-title">Minecraft servers</h5>
-                            <p class="card-text">
+                            <h5 class="card-title col-gray-white">
+                                Minecraft servers
+                            </h5>
+                            <p class="card-text col-gray-white">
                                 Ready server builds for minecraft
                             </p>
                             <a
