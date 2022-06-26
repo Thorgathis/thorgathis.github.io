@@ -17,7 +17,12 @@
             integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
             crossorigin="anonymous"
         ></script>
-        <script src="/assets/js/copyMY.js"></script>
+        <script
+            src="https://code.jquery.com/jquery-3.6.0.min.js"
+            integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+            crossorigin="anonymous"
+        ></script>
+        
         <link href="/assets/css/style.css" rel="stylesheet" />
         <link href="/assets/css/colours.css" rel="stylesheet" />
     </head>
@@ -57,10 +62,11 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/projects">Projects</a>
-                        </li>
+                        </li> 
                     </ul>
                 </div>
-            </div>
+                
+            </div>   
         </nav>
         <div class="container text-center my-4">
             <div class="row">
@@ -70,9 +76,9 @@
                         src="assets/logo/ico.png"
                         alt="Thorgathis"
                     />
-                    <h1 class="fw-light col-gray-white">Thorgathis</h1>
+                    <h1 class="fw-light col-gray-white text">Thorgathis</h1>
                     <p class="lead text-muted">
-                        <span class="col-gray-white">
+                        <span class="col-gray-white text">
                             I am java develiper from Russia</span
                         >
                     </p>
@@ -88,14 +94,17 @@
                         class="btn btn-secondary"
                         >Minecraft server</a
                     >
-                </div>
+                    <h1></h1>
+                    <a class="btn btn-secondary col-orange" onclick="ThemeToggle()">Toggle Theme</a>
+
+                    
             </div>
         </div>
         <div class="container text-center my-5">
             <div class="row">
                 <div class="col-lg-6 col-md-8 mx-auto">
-                    <h1 class="fw-light col-gray-white">Skills</h1>
-                    <div class="progress pbar-bg">
+                    <h1 class="fw-light col-gray-white text">Skills</h1>
+                    <div class="progress pbar-bg pbar">
                         <div
                             class="progress-bar col-red"
                             role="progressbar"
@@ -108,7 +117,7 @@
                         </div>
                     </div>
                     <h1></h1>
-                    <div class="progress pbar-bg">
+                    <div class="progress pbar-bg pbar">
                         <div
                             class="progress-bar col-orange"
                             role="progressbar"
@@ -121,7 +130,7 @@
                         </div>
                     </div>
                     <h1></h1>
-                    <div class="progress pbar-bg">
+                    <div class="progress pbar-bg pbar">
                         <div
                             class="progress-bar col-blue"
                             role="progressbar"
@@ -134,7 +143,7 @@
                         </div>
                     </div>
                     <h1></h1>
-                    <div class="progress pbar-bg">
+                    <div class="progress pbar-bg pbar">
                         <div
                             class="progress-bar bg-warning"
                             role="progressbar"
@@ -147,7 +156,7 @@
                         </div>
                     </div>
                     <h1></h1>
-                    <div class="progress pbar-bg">
+                    <div class="progress pbar-bg pbar">
                         <div
                             class="progress-bar col-purple"
                             role="progressbar"
@@ -160,7 +169,7 @@
                         </div>
                     </div>
                     <h1></h1>
-                    <div class="progress pbar-bg">
+                    <div class="progress pbar-bg pbar">
                         <div
                             class="progress-bar col-lblue"
                             role="progressbar"
@@ -173,7 +182,7 @@
                         </div>
                     </div>
                     <h1></h1>
-                    <div class="progress pbar-bg">
+                    <div class="progress pbar-bg pbar">
                         <div
                             class="progress-bar col-green"
                             role="progressbar"
@@ -191,7 +200,9 @@
         <div class="container text-center my-5">
             <div class="row">
                 <div class="col-lg-6 col-md-8 mx-auto">
-                    <h1 class="fw-light col-gray-white">Technologies</h1>
+                    <h1 class="fw-light col-gray-white text">
+                        Technologies
+                    </h1>
                     <div class="techs-container" margin="center">
                         <div class="tech">
                             <a
@@ -258,22 +269,10 @@
                                 />
                             </a>
                         </div>
-                        <div class="tech">
-                            <a
-                                href="https://unity.com/ru"
-                                data-tooltip="Unity"
-                                target="_blank"
-                            >
-                                <img
-                                    src="https://upload.wikimedia.org/wikipedia/ru/a/a3/Unity_Logo.png"
-                                    alt="Unity"
-                                    width="64"
-                                />
-                            </a>
-                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </body>
+    <script src="/assets/script.js"></script>
 </html>
