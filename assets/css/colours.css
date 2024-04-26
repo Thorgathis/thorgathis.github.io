@@ -7,30 +7,19 @@
 .col-red {
     background-color: #6e0808;
 }
-.col-purple {
-    background-color: #bd1ee4;
-}
 .col-lblue {
     background-color: #00589d;
 }
 .col-green {
     background-color: #53b413;
 }
-.col-black {
-    background-color: #000000;
-}
-.col-white {
-    color: #ffffff;
-}
+
 .col-gray-white {
     color: #c9d1d9;
 }
-.bar-dark {
-    background-color: #161b22;
+.pbar-bg {
+    background-color: #464650;
 }
 .backg-dark {
     background-color: #12171f;
-}
-.card-dark {
-    background-color: #1b222c;
 }
