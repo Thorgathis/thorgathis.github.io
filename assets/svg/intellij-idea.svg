@@ -1,43 +1,59 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
-<desc>Created with Fabric.js 5.2.4</desc>
-<defs>
-</defs>
-<g transform="matrix(1 0 0 1 540 540)" id="56a4ef1e-942e-455f-9dc3-120b43a2765b"  >
-<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
-</g>
-<g transform="matrix(1 0 0 1 540 540)" id="d4947cc6-25bc-4f38-8920-cc313a9a172a"  >
-</g>
-<g transform="matrix(NaN NaN NaN NaN 0 0)"  >
-<g style=""   >
-</g>
-</g>
-<g transform="matrix(16.88 0 0 16.88 540 540)"  >
-<g style=""   >
-		<g transform="matrix(1 0 0 1 -2.97 0)"  >
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,129,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-29.03, -32)" d="M 16.45 6 L 4.191 6 C 3.0857997116826623 6.000130707427777 2.026876474006518 6.443756933768886 1.251610108074237 7.231430569379036 C 0.47634374214195585 8.019104204989187 0.04958471487864191 9.084936923870274 0.06700000000000017 10.190000000000001 L 0.24300000000000016 21.234 C 0.26189020507761446 22.415033492976345 0.7861675298156166 23.531307296897676 1.6829999999999987 24.3 L 39.842 57.007000000000005 C 40.589 57.647000000000006 41.542 58.00000000000001 42.525999999999996 58.00000000000001 L 53.876 58.00000000000001 C 56.15378405896116 57.99944780990889 58.00000006693214 56.15278412589329 58 53.875 L 58 42.872 C 58 41.682 57.486 40.551 56.59 39.767 L 19.167 7.021 C 18.415024361134392 6.362593950221034 17.44948278152567 5.999760695609144 16.449999999999996 6 Z" stroke-linecap="round" />
-</g>
-		<g transform="matrix(1 0 0 1 -17.45 3)"  >
-<linearGradient id="SVGID___JETBRAINS_COM__LOGO_PREFIX__3_4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="-0.391" y1="7.671" x2="24.392" y2="61.126">
-<stop offset="10%" style="stop-color:rgb(252,128,29);stop-opacity: 1"/>
-<stop offset="59%" style="stop-color:rgb(254,40,87);stop-opacity: 1"/>
-</linearGradient>
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID___JETBRAINS_COM__LOGO_PREFIX__3_4); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-14.55, -35)" d="M 14.988 6 L 4.125 6 C 1.846825406947977 6 0 7.846825406947977 0 10.125 L 0 22.691000000000003 C 0 22.891000000000002 0.014 23.091 0.044 23.289 L 5.492 60.474000000000004 C 5.789206279545 62.499010428802684 7.526295627005067 63.99986243545404 9.572999999999999 64 L 24.971 64 C 26.065364630830267 64.00000012863056 27.114877728455923 63.56512863048902 27.8885228069568 62.79110845134402 C 28.662167885457677 62.017088272199025 29.096530601033137 60.967364502199715 29.096 59.873 L 29.09 41.37 C 29.09 40.943999999999996 29.024 40.521 28.895 40.116 L 18.915 8.870999999999999 C 18.36933772312317 7.162051936148676 16.78194773765658 6.00152312324453 14.987999999999998 6 Z" stroke-linecap="round" />
-</g>
-		<g transform="matrix(1 0 0 1 2.91 0)"  >
-<linearGradient id="SVGID___JETBRAINS_COM__LOGO_PREFIX__2_5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="4.325" y1="59.932" x2="62.921" y2="1.336">
-<stop offset="21%" style="stop-color:rgb(254,40,87);stop-opacity: 1"/>
-<stop offset="70%" style="stop-color:rgb(0,126,255);stop-opacity: 1"/>
-</linearGradient>
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID___JETBRAINS_COM__LOGO_PREFIX__2_5); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-34.91, -32)" d="M 59.876 0 L 25.748 0 C 24.08999739785888 -0.0000211548276470787 22.593113739659735 0.9926490606096796 21.948 2.5199999999999987 L 6.151 39.943 C 5.931934831072137 40.461073678020774 5.821327633489611 41.01853395383671 5.825999999999999 41.580999999999996 L 5.976 59.91 C 5.995214582311312 62.17449442745391 7.836424056142513 64.00008151787078 10.101000000000003 64 L 27.767000000000003 64 C 28.573000000000004 64 29.360000000000003 63.764 30.033 63.322 L 62.143 42.213 C 63.3028876339552 41.449949616834196 64.00085180624117 40.15437476391564 64 38.766 L 64 4.125 C 64.00000006693213 1.8472158741067113 62.15378405896115 0.0005521900911231725 59.876 0 Z" stroke-linecap="round" />
-</g>
-		<g transform="matrix(1 0 0 1 0 0)"  >
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -32)" d="M 52 12 L 12 12 L 12 52 L 52 52 L 52 12 Z" stroke-linecap="round" />
-</g>
-		<g transform="matrix(1 0 0 1 -6.02 0)"  >
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-25.98, -32)" d="M 33 44 L 17 44 L 17 47 L 33 47 L 33 44 Z M 17 29.383 L 19.98 29.383 L 19.98 19.607999999999997 L 17 19.607999999999997 L 17 16.991999999999997 L 25.843 16.991999999999997 L 25.843 19.607999999999997 L 22.863 19.607999999999997 L 22.863 29.382999999999996 L 25.843 29.382999999999996 L 25.843 32 L 17 32 L 17 29.384 Z M 27.643 29.298 L 29.797 29.298 C 30.202095157017474 29.305509037923933 30.602401046470817 29.209476928588177 30.96 29.019 C 31.3 28.833 31.562 28.570999999999998 31.748 28.230999999999998 C 31.934 27.891 32.027 27.503999999999998 32.027 27.067999999999998 L 32.027 16.992 L 34.953 16.992 L 34.953 27.272 C 34.953 28.171999999999997 34.746 28.980999999999998 34.331 29.698999999999998 C 33.92520072168932 30.40848828983059 33.3318379294821 30.992509510382074 32.616 31.386999999999997 C 31.887999999999998 31.794999999999998 31.07 31.997999999999998 30.162 31.997999999999998 L 27.643 31.997999999999998 L 27.643 29.298 Z" stroke-linecap="round" />
-</g>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 70 70" style="enable-background:new 0 0 70 70;" xml:space="preserve">
+<g>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0.7898" y1="40.0893" x2="33.3172" y2="40.0893">
+			<stop offset="0.2581" style="stop-color:#F97A12"/>
+			<stop offset="0.4591" style="stop-color:#B07B58"/>
+			<stop offset="0.7241" style="stop-color:#577BAE"/>
+			<stop offset="0.9105" style="stop-color:#1E7CE5"/>
+			<stop offset="1" style="stop-color:#087CFA"/>
+		</linearGradient>
+		<polygon style="fill:url(#SVGID_1_);" points="17.7,54.6 0.8,41.2 9.2,25.6 33.3,35   "/>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="25.7674" y1="24.88" x2="79.424" y2="54.57">
+			<stop offset="0" style="stop-color:#F97A12"/>
+			<stop offset="7.179946e-002" style="stop-color:#CB7A3E"/>
+			<stop offset="0.1541" style="stop-color:#9E7B6A"/>
+			<stop offset="0.242" style="stop-color:#757B91"/>
+			<stop offset="0.3344" style="stop-color:#537BB1"/>
+			<stop offset="0.4324" style="stop-color:#387CCC"/>
+			<stop offset="0.5381" style="stop-color:#237CE0"/>
+			<stop offset="0.6552" style="stop-color:#147CEF"/>
+			<stop offset="0.7925" style="stop-color:#0B7CF7"/>
+			<stop offset="1" style="stop-color:#087CFA"/>
+		</linearGradient>
+		<polygon style="fill:url(#SVGID_2_);" points="70,18.7 68.7,59.2 41.8,70 25.6,59.6 49.3,35 38.9,12.3 48.2,1.1   "/>
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="63.2277" y1="42.9153" x2="48.2903" y2="-1.7191">
+			<stop offset="0" style="stop-color:#FE315D"/>
+			<stop offset="7.840246e-002" style="stop-color:#CB417E"/>
+			<stop offset="0.1601" style="stop-color:#9E4E9B"/>
+			<stop offset="0.2474" style="stop-color:#755BB4"/>
+			<stop offset="0.3392" style="stop-color:#5365CA"/>
+			<stop offset="0.4365" style="stop-color:#386DDB"/>
+			<stop offset="0.5414" style="stop-color:#2374E9"/>
+			<stop offset="0.6576" style="stop-color:#1478F3"/>
+			<stop offset="0.794" style="stop-color:#0B7BF8"/>
+			<stop offset="1" style="stop-color:#087CFA"/>
+		</linearGradient>
+		<polygon style="fill:url(#SVGID_3_);" points="70,18.7 48.7,43.9 38.9,12.3 48.2,1.1   "/>
+		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="10.7204" y1="16.473" x2="55.5237" y2="90.58">
+			<stop offset="0" style="stop-color:#FE315D"/>
+			<stop offset="4.023279e-002" style="stop-color:#F63462"/>
+			<stop offset="0.1037" style="stop-color:#DF3A71"/>
+			<stop offset="0.1667" style="stop-color:#C24383"/>
+			<stop offset="0.2912" style="stop-color:#AD4A91"/>
+			<stop offset="0.5498" style="stop-color:#755BB4"/>
+			<stop offset="0.9175" style="stop-color:#1D76ED"/>
+			<stop offset="1" style="stop-color:#087CFA"/>
+		</linearGradient>
+		<polygon style="fill:url(#SVGID_4_);" points="33.7,58.1 5.6,68.3 10.1,52.5 16,33.1 0,27.7 10.1,0 32.1,2.7 53.7,27.4   "/>
+	</g>
+	<g>
+		<rect x="13.7" y="13.5" style="fill:#000000;" width="43.2" height="43.2"/>
+		<rect x="17.7" y="48.6" style="fill:#FFFFFF;" width="16.2" height="2.7"/>
+		<polygon style="fill:#FFFFFF;" points="29.4,22.4 29.4,19.1 20.4,19.1 20.4,22.4 23,22.4 23,33.7 20.4,33.7 20.4,37 29.4,37     29.4,33.7 26.9,33.7 26.9,22.4   "/>
+		<path style="fill:#FFFFFF;" d="M38,37.3c-1.4,0-2.6-0.3-3.5-0.8c-0.9-0.5-1.7-1.2-2.3-1.9l2.5-2.8c0.5,0.6,1,1,1.5,1.3    c0.5,0.3,1.1,0.5,1.7,0.5c0.7,0,1.3-0.2,1.8-0.7c0.4-0.5,0.6-1.2,0.6-2.3V19.1h4v11.7c0,1.1-0.1,2-0.4,2.8c-0.3,0.8-0.7,1.4-1.3,2    c-0.5,0.5-1.2,1-2,1.2C39.8,37.1,39,37.3,38,37.3"/>
+	</g>
 </g>
 </svg>
